@@ -1,2 +1,0 @@
-# springBootMVC
-Spring demo application
